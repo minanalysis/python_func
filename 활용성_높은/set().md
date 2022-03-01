@@ -9,9 +9,9 @@ s2=set({3,4,5,6})
   - 값 중복이 불가능(교집합 구할 때 유용) / 순서가 없음(인덱싱 불가능) 
  
  ```
- s1.union(s2) -- 합
- s1.intersection(s2) -- 교 
- s1.difference(s2) --차
+ s1.union(s2) -- 합집합
+ s1.intersection(s2) -- 교집합
+ s1.difference(s2) --차집합
  ```
 
   - 연산자로도 쉽게 계산이 가능. 
